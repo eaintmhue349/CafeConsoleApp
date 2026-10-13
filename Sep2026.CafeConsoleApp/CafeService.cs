@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Sep2026.CafeConsoleApp
+namespace CafeConsoleApp
 {
     public class CafeService
     {

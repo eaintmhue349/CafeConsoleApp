@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using Sep2026.CafeConsoleApp;
+using CafeConsoleApp;
 
 CafeService cafeService = new CafeService();
 
